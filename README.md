@@ -30,7 +30,6 @@ Pickle/Joblib – Model serialization
 💡 How to Run the Project
 Clone the repository:
 
-git clone https://github.com/your-username/gestational-diabetes-prediction.git
 cd gestational-diabetes-prediction
 Install dependencies:
 
